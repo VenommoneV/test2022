@@ -7,6 +7,8 @@ package com.java;
 public class People {
     private String id;
     private String name;
-    private Integer account2;
-    private int account1;
+
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
