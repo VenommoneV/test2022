@@ -7,4 +7,5 @@ package com.java;
 public class People {
     private String id;
     private String name;
+    private Integer account;
 }
